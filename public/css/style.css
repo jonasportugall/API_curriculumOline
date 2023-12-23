@@ -1,0 +1,40 @@
+body{
+
+    background-color: black;
+}
+.section{
+    margin-bottom: 20px;
+}
+
+.section button{
+    cursor: pointer;
+}
+
+.sub-form{
+    display: none;
+}
+
+.form-curriculum{
+    display: none;
+}
+
+.form-cartaApresentacao{
+    display: none;
+}
+
+#submenu{
+    display: none;
+}
+
+#submenu-carta{
+    display:none;
+}
+
+a{
+    color:rgb(7, 6, 6);
+    background-color: blueviolet;
+    border:1 px solid white;
+    border-radius: 10px;
+    margin-top:5px;
+}
+
